@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>PhatTran's Profile</title>
-        <link rel="stylesheet" href="../assets/css/global.css">
-        <link rel="stylesheet" href="../assets/css/header.css">
-        <link rel="stylesheet" href="../assets/css/footer.css">
-        <link rel="stylesheet" href="../assets/css/body.css">
-    </head>
-    <body>
-        <div class="wrapper">
-            <div class="navbar-wrapper">
-                <div class="logo-website"> &lt; /&gt; PhatTran</div>
-                <div class="menu-wrapper">
-                    <div class="homepage-option action">Homepage</div>
-                    <div class="resume-option">Resume</div>
-                    <div class="project-option">Project</div>
-                    <div class="education-option">Education</div>
-                    <div class="notification-option">Notification</div>
-                    <div class="contact-option">Contact</div>
 
-                </div>
-            </div>
             <div class="body-wrapper">
                 <div class="panel-info-wrapper">
                     <div class="panel-info-content">
@@ -43,7 +19,5 @@
                     
                 </div>
             </div>
-            <div class="footer-wrapper"></div>
-        </div>
-    </body>
-</html>
+
+          

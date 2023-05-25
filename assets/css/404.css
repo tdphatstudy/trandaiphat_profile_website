@@ -1,0 +1,28 @@
+.not-found-wrapper {
+    height: calc(100vh - 50px);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.not-found-wrapper > div {
+    margin: 25px 0;
+}
+.f404-logo {
+    font-size: 140px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #07f0a2,#00a7fa);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+.not-found-title {
+    font-size: 26px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.not-found-description {
+    color: #ffffff;
+    font-size: 16px;
+}

@@ -1,0 +1,43 @@
+.navbar-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    height: 50px;
+
+}
+.logo-website {
+    background: linear-gradient(90deg, #07f0a2,#00a7fa);
+    font-size: 24px;
+    margin-left: 25px;
+    font-weight: bold;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    cursor: pointer;
+}
+.menu-wrapper {
+    font-size: 16px;
+    display: flex;
+    width: 50%;
+    height: auto;
+    justify-content: space-between;
+    margin-right: 5%;
+    
+}
+.menu-wrapper > div {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.menu-wrapper > div.action{
+    background: linear-gradient(90deg, #07f0a2,#00a7fa);
+    border-radius: 10px;
+}
+.menu-wrapper > div:hover {
+    background: linear-gradient(90deg, #07f0a2,#00a7fa);
+    border-radius: 10px; 
+}
+
+
+
